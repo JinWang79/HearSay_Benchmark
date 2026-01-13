@@ -96,3 +96,15 @@ python main.py --model [model_id] --prompt_type main
 
 **Full Dataset Release:**
 To ensure ethical usage and privacy protection, the complete HearSay dataset (containing 22,000+ clips) is restricted to academic research purposes only. Please contact my email at jingw6956@gmail.com for further inquiries.
+
+## 📖 Citation
+
+If you find the HearSay benchmark useful in your research, please consider citing our paper:
+
+```bibtex
+@article{wang2026hearsay,
+  title={HearSay Benchmark: Do Audio LLMs Leak What They Hear?},
+  author={Wang, Jin and Lin, Liang and Luo, Kaiwen and Wang, Weiliu and Chen, Yitian and Aloqaily, Moayad and Tang, Xuehai and Zhou, Zhenhong and Wang, Kun and Sun, Li and others},
+  journal={arXiv preprint arXiv:2601.03783},
+  year={2026}
+}
